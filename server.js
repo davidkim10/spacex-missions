@@ -5,7 +5,6 @@ const schema = require('./schema');
 const path = require('path');
 
 const app = express();
-const PORT = process.env.port || 5000;
 
 // Allow cross-origin
 app.use(cors());
@@ -25,4 +24,5 @@ app.get('*', (req, res) => {
   res.sendFile(path.resolve(__dirname, 'public', 'index.html'));
 });
 
+const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on ${PORT}`));
