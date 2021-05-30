@@ -17,6 +17,7 @@ Tools & technologies used within this project include, but not limited to:
 - Apollo
 - Axios
 - React
+- Bootstrap
 
 _Project inspired by [Traversy Media.](https://www.traversymedia.com/)_
 
