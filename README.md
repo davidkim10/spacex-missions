@@ -1,6 +1,6 @@
 # SpaceX Mission Tracker
 
-![spacex](./screenshots/space-x.png)
+![spacex](./public/logo1200.png)
 
 ## Description
 
