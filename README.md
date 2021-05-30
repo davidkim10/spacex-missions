@@ -17,3 +17,11 @@ Tools & technologies used within this project include, but not limited to:
 - Apollo
 - Axios
 - React
+
+_Project inspired by [Traversy Media.](https://www.traversymedia.com/)_
+
+## View Live Demo
+
+The project is hosted and available on Heroku.
+
+[View Live Demo](https://spacex-mission-launches-app.herokuapp.com/)
