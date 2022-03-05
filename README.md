@@ -19,7 +19,6 @@ Tools & technologies used within this project include, but not limited to:
 - React
 - Bootstrap
 
-_Project inspired by [Traversy Media.](https://www.traversymedia.com/)_
 
 ## View Live Demo
 
